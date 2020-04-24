@@ -4,7 +4,7 @@ Class {
 	#category : #MyPack
 }
 
-{ #category : #'as yet unclassified' }
+{ #category : #dummy }
 MyTestCase >> myTestMethod [
 	self assert: true
 ]

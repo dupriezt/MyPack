@@ -4,7 +4,7 @@ Class {
 	#category : #MyPack
 }
 
-{ #category : #'as yet unclassified' }
+{ #category : #dummy }
 MyClass >> myMethod1 [
 	Point new.
 	Point x:1 y: 2.
