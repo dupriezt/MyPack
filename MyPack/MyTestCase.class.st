@@ -5,6 +5,6 @@ Class {
 }
 
 { #category : #dummy }
-MyTestCase >> myTestMethod [
+MyTestCase >> testMyMethod [
 	self assert: true
 ]
